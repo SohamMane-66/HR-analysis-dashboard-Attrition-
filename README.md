@@ -18,23 +18,5 @@ It helps HR professionals and management to analyze and visualize employee-relat
 - **Data Visualization**
 - **DAX (Data Analysis Expressions)**
 
-## 📁 File Included
-- `HR power bi soham.pbix` → Power BI dashboard file  
 
-## 📜 Certificate
-Additionally, I’ve completed the **Advanced Excel Certification** from **I.T. Vedant**, enhancing my analytical and reporting skills.
 
-## 🚀 How to Use
-1. Download the `.pbix` file.
-2. Open it in **Power BI Desktop**.
-3. Explore the visuals and interact with the filters to view insights.
-
-## 🔗 Connect with Me
-If you like this project or want to collaborate, feel free to connect!  
-📧 Email: *[your email here]*  
-💼 LinkedIn: *[your LinkedIn profile URL]*
-
----
-
-### 🏷️ Tags
-`#PowerBI` `#DataAnalytics` `#HRDashboard` `#BusinessIntelligence` `#DataVisualization` `#Excel` `#ITVedant`
